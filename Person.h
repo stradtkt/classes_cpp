@@ -16,6 +16,7 @@ public:
     Person();
     string toString();
     void setName(string newName);
+    string getName();
 };
 
 
